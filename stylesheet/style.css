@@ -1,0 +1,165 @@
+
+.nav-title {
+  margin-left: 30px;
+  font-weight: 600;
+}
+
+.txt-blue {
+  color: blue;
+}
+.bg-white-border {
+  background-color: #fdfdfd !important;
+  border-bottom: 1.5px solid #efefef;
+}
+.left {
+  margin-left: 30px;
+}
+
+.left-sm {
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.voting-part {
+  margin: 20px 0;
+}
+
+.bg-type-name {
+  text-align: center;
+}
+
+.bg-type-name h3{
+  font-size: 30px;
+  color:#087fff;
+  font-weight: 600
+}
+
+.about-me{
+  background-color: #58595a;
+  padding: 20px 0;
+  font-weight: bold;
+  color: white;
+}
+
+.voting-signup {
+  padding: 40px 0;
+}
+
+.voting-logo {
+  padding: 15px 0;
+  background-color: #fdfdfd !important;
+  border-bottom: 1.5px solid #efefef;
+}
+
+.button-center {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.space-top-down {
+  margin: 20px 0;
+}
+
+.img-shadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 1px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login-button {
+  background-color: #1877f2;
+  font-weight: bold;
+
+}
+
+.user_points {
+  color:#007bff;
+  font-weight: bold;
+}
+
+.user-name {
+    font-weight: bold;
+}
+
+.card {
+    box-shadow: 0px 1px 2px gray;
+}
+
+#justWait {
+    color: red;
+}
+
+.no-border {
+    border: none;
+}
+
+.no-backgorund {
+   background-color: #fff0;
+}
+
+.img-round {
+    border-radius: 5px;
+    box-shadow: 1px 1px 6px #fff;
+}
+
+.color-white {
+    color: white;
+}
+.close-font {
+    opacity: 1;
+    font-size: 2em;
+}
+
+.card-destroy {
+    height: 0px;
+    border:0px;
+    box-shadow: 0px;
+}
+
+.card-margin {
+    margin-bottom: 15px;
+}
+
+.button-margin {
+  margin: 5px;
+}
+.waiting {
+    padding-top: 100px;
+    text-align: center;
+    height: 450px;
+}
+
+.waiting .spinner-grow {
+  width: 100px;
+  height: 100px;
+}
+
+#selectionType {
+  font-weight: bold;
+}
+
+.dis-none {
+  display: none;
+}
+
+#voteLeft {
+  font-style: italic;
+  font-weight: bold;
+  color: red;
+}
+#voted{
+  font-weight: bold;
+
+}
+@media only screen and (max-width: 968px) {
+  .left {
+    margin-left: 0px;
+  }
+  .left-sm{
+      margin-left: 0px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .nav-title {
+    margin-left: 0px;
+  }
+}
